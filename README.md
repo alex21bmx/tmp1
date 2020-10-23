@@ -1,4 +1,4 @@
 # tmp1
 Primera prova
 ## Participants
-*Jo :C
+* Jo :C
